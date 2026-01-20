@@ -1,16 +1,16 @@
-# About Me: 
+# About Me:
 
-## Introduction & Academic Interests: 
+## Introduction & Academic Interests:
 
 Hello! I am an third-year undergraduate student at New York University, majoring in Mathematics, with a concentration in Computer Science and a minor in Public Health.
 
-I was born in Tampa, Florida, to my West Bengal parents who were on their green cards at the time. My parents also blessed me with a thoughtful and brilliant older sister, who introduced me to Public Health, and a resilient and rowdy, younger sister, who's youthfulness and energy remind to lighten-up and to be patient with others. From before I can remember, my father would have me doing arithmetic worksheets and IXL...
+I was born in Tampa, Florida, to my West Bengal parents who had just begun their green cards at the time. My parents also blessed me with a thoughtful and brilliant older sister, who introduced me to Public Health, and a resilient and rowdy, younger sister, who's youthfulness and energy remind to lighten-up and to be patient with others. From before I can remember, my father had encouraged my interest in technology and mathematics, encouraging me to ask questions and to seek a more critical understanding of things- one of my earliest and fondest memories with my father include taking apart a simple point-and-shoot camera and being enamored by the LCD screen. As I got older, my relationship with technology, and specifically videogames, became an escape
 
-I hope to connect my passions for identifiying and understanding the various health-related aspects and outcomes of different communities and my curiosity for technical theory to help address disparities and inequities, understand collective behavior, identify causal factors in specific risk and health outcome rates, and to ultimately contribute to a better understanding of long-term health trends as whole. 
+I hope to connect my passions for identifiying and understanding the various health-related aspects and outcomes of different communities and my curiosity for technical theory to help address disparities and inequities, understand collective behavior, identify causal factors in specific risk and health outcome rates, and to ultimately contribute to a better understanding of long-term health trends as whole.
 
 ## Public Health Adjacent:
 
-While I am invested in Public Health, I very much value perspective, especially as it relates to understanding and addressing the needs of others. 
+While I am invested in Public Health, I very much value perspective, especially as it relates to understanding and addressing the needs of others.
 
 * Computational Cognitive Science and Computational Neuroscience
 * Epidemiology, Biostatistics, and Agent-Based Modeling
